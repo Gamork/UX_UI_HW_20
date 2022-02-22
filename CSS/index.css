@@ -41,3 +41,23 @@
   .container img {
     width: 100%;
   }
+
+  header {
+    background-color: #418cca;
+    padding: 15px;
+  }
+  header ul {
+    float: right;
+    color: white;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 5px;
+  }
+  header p {
+    display: inline-block;
+  }
+  li:hover {
+    background-color: white;
+    color: black
+  }
